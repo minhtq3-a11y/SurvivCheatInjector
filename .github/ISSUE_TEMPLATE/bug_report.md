@@ -1,23 +1,22 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
+
+My aimbot is being goofy
+Does you know how to make it better
+ 
 labels: bug
-assignees: ''
 
----
 
-**Describe the bug**
-<!-- A clear and concise description of what the bug is. -->
 
-**Expected behavior**
-<!-- A clear and concise description of what you expected to happen. -->
 
-**Screenshots**
-<!-- If applicable, add screenshots to help explain your problem. -->
+My aimbot is pretty bad when aiming on click, when I click I miss a lot and get shot dead by the opponent, is there any way to help me. thank
 
-**Cheat version**
-<!-- (ex: 1.1.0) -->
 
-**Chromium version**
-<!-- (go to chrome://version/) -->
+**I hope you adjust the aimbot to aim on click better**
+
+
+**![image](https://user-images.githubusercontent.com/98383817/153193880-ea8fa24a-8b8e-44a4-bec0-1223d5c8f28d.png)
+**
+
+**Version 3.0.12**
+
+
+
